@@ -20,7 +20,7 @@ const Home = () => {
 					<p className="home__job">
 						<span className="text-cs">I Build </span>
 						<b>Creative & Functional</b>
-						<span className="text-cs"> &nbsp; Digital experiences </span>
+						<span className="text-cs"> &nbsp; Websites </span>
 					</p>
 
 					<div className="home__img-wrapper">
@@ -31,7 +31,7 @@ const Home = () => {
 						<p className="home__data home__data-one">
 							<span className="text-lg">
 								{" "}
-								7<b>+</b>
+								3<b>+</b>
 							</span>
 							<span className="text-sm text-cs">
 								Years of <span>Experience</span>
@@ -41,7 +41,7 @@ const Home = () => {
 						<p className="home__data home__data-two">
 							<span className="text-lg">
 								{" "}
-								55<b>+</b>{" "}
+								24<b>+</b>{" "}
 							</span>
 							<span className="text-sm text-cs">
 								Completed <span>Projects</span>
@@ -54,9 +54,9 @@ const Home = () => {
 					</div>
 
 					<p className="home__text">
-						With a rich experince in graphic design, web design, web & app
-						development, CMS applications like wordpress among others. I'd love
-						to talk with you about your project.
+						With a rich experince in web & graphic design, web & app
+						development, and CMS applications like wordpress among others. Let's
+						talk about your project!
 					</p>
 
 					<div className="home__socials">

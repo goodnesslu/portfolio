@@ -56,14 +56,14 @@ export const services = [
 		name: "Web Development",
 		title: "Web Design & Development",
 		description:
-			"Web designers craft the overall vision & plan for a website layout. I with you to create a unique and functional website or WebApp for your business, brand or hustle.",
+			"I craft & design the overall vision & plan for website layouts. Working with you to create a unique and functional website or Web app for your business, brand or hustle.",
 	},
 	{
 		id: 2,
 		name: " Apps Development ",
 		title: " iOS & Android ",
 		description:
-			"I Design Software applications to run on mobile devices. Modern and mobile-ready applications that will help you reach all of your customers with less bugs continous support.",
+			"I design software applications to run on mobile devices. Modern and mobile-ready applications that will help  you reach all of your customers with less bugs continous support.",
 	},
 	{
 		id: 3,
