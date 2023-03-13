@@ -17,14 +17,19 @@ const Blog = () => {
 			<div className="blog__container container grid">
 				<div className="blog__item card card-two">
 					<span className="blog__date text-cs">OCOBER 31, 2022</span>
-					<h3 className="blog__title">The Main Thing For The Designer</h3>
+					<h3 className="blog__title">10 Things That Make Your Design Great</h3>
 					<p className="blog__description">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-						excepturi sunt dignissimos, laudantium nemo sed iure nulla, facilis
-						in praesentium, incidunt consequuntur asperiores provident nam.
+						Acheiving awesome design is about understanding what it takes to
+						create good work. These are principles that lay a foundation for
+						your ability to create. Understanding them will instantly set you
+						apart.
 					</p>
 
-					<a href="#" className="link">
+					<a
+						href="https://hashnode.com/@goodnesslu"
+						target="_blank"
+						className="link"
+					>
 						Read more
 						<FaArrowRight className="link__icon" />
 					</a>
@@ -33,15 +38,20 @@ const Blog = () => {
 				</div>
 
 				<div className="blog__item card card-two">
-					<span className="blog__date text-cs">OCTOBER 31, 2022</span>
+					<span className="blog__date text-cs">DECEMBER 24, 2022</span>
 					<h3 className="blog__title">Follow Your Own Design Process</h3>
 					<p className="blog__description">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-						excepturi sunt dignissimos, laudantium nemo sed iure nulla, facilis
-						in praesentium, incidunt consequuntur asperiores provident nam.
+						You don't need to do wireframes to create a successful design, but
+						if that is something that helps you communicate - then use it.
+						Though it may be tempting to design in high fidelity and get
+						something built right away ...
 					</p>
 
-					<a href="#" className="link">
+					<a
+						href="https://hashnode.com/@goodnesslu"
+						target="_blank"
+						className="link"
+					>
 						Read more
 						<FaArrowRight className="link__icon" />
 					</a>
@@ -50,17 +60,20 @@ const Blog = () => {
 				</div>
 
 				<div className="blog__item card card-two">
-					<span className="blog__date text-cs">OCOBER 31, 2022</span>
-					<h3 className="blog__title">
-						Usability Secrets to Create Better Interfaces
-					</h3>
+					<span className="blog__date text-cs">FEBRUARY 17, 2023</span>
+					<h3 className="blog__title">Secrets to Create Better Interfaces</h3>
 					<p className="blog__description">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-						excepturi sunt dignissimos, laudantium nemo sed iure nulla, facilis
-						in praesentium, incidunt consequuntur asperiores provident nam.
+						To make a fluid or great interface designs, you have to know the
+						secrets the professionals employ. I've analyzed many great
+						interfaces and compared them with my industry knowledge about
+						designing to come up with ...
 					</p>
 
-					<a href="#" className="link">
+					<a
+						href="https://hashnode.com/@goodnesslu"
+						target="_blank"
+						className="link"
+					>
 						Read more
 						<FaArrowRight className="link__icon" />
 					</a>

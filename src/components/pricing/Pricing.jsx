@@ -45,7 +45,7 @@ const Pricing = () => {
 						</li>
 					</ul>
 
-					<a href="#" className="btn pricing__btn text-cs">
+					<a href="#contact" className="btn pricing__btn text-cs">
 						Free Strategy Call
 						<FaArrowRight className="pricing__btn-icon" />
 					</a>
@@ -89,7 +89,7 @@ const Pricing = () => {
 							</li>
 						</ul>
 
-						<a href="#" className="btn pricing__btn text-cs">
+						<a href="#contact" className="btn pricing__btn text-cs">
 							Free Strategy Call
 							<FaArrowRight className="pricing__btn-icon" />
 						</a>
@@ -105,9 +105,9 @@ const Pricing = () => {
 					</h3>
 
 					<p className="pricing__description">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odit
-						velit praesentium ipsa quam quas qui explicabo illo consectetur
-						repellendus.
+						I can join your team either full time or on contract basis. Reach
+						out to me - I love to work on challanging projects that directly
+						impact revenue or growth.
 					</p>
 
 					<ul className="pricing__list">
@@ -132,8 +132,8 @@ const Pricing = () => {
 						</li>
 					</ul>
 
-					<a href="#" className="btn pricing__btn text-cs">
-						Free Strategy Call
+					<a href="#contact" className="btn pricing__btn text-cs">
+						Request Call Back
 						<FaArrowRight className="pricing__btn-icon" />
 					</a>
 

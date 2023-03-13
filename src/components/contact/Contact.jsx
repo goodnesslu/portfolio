@@ -54,7 +54,7 @@ const Contact = () => {
 						</span>
 
 						<h3 className="contact__card-title">Address</h3>
-						<p className="contact__card-data">00256 Kampala, Uganda</p>
+						<p className="contact__card-data">Kampala, Uganda</p>
 					</div>
 
 					<div className="contact__card">
@@ -72,7 +72,11 @@ const Contact = () => {
 						</span>
 
 						<h3 className="contact__card-title">Email</h3>
-						<p className="contact__card-data">hello@goodnesslu.com</p>
+						<p className="contact__card-data">
+							<a href="mailto:hello@goodnesslu.com?subject=Hello%Goodness%-Website%20">
+								hello@goodnesslu.com
+							</a>
+						</p>
 					</div>
 
 					<div className="contact__card">
@@ -81,7 +85,9 @@ const Contact = () => {
 						</span>
 
 						<h3 className="contact__card-title">Phone</h3>
-						<p className="contact__card-data">+256 785 6640 19</p>
+						<p className="contact__card-data">
+							<a href="tel:+256785664019">+256 785 664 019</a>
+						</p>
 					</div>
 				</div>
 

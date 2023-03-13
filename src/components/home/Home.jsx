@@ -87,8 +87,12 @@ const Home = () => {
 						<a download="" href={CV} traget="_blank" className="btn text-cs">
 							Resume / CV
 						</a>
-						<a href="#skills" className="hero__link text-cs">
-							My Skills
+						<a
+							href="https://calendly.com/d/yh7-pm7-9nb/free-strategy-call"
+							className="hero__link text-cs"
+							target="_blank"
+						>
+							Free Call
 						</a>
 					</div>
 				</div>

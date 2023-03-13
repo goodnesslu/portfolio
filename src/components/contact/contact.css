@@ -10,6 +10,7 @@
 	padding-left: 130px;
 	margin-bottom: 40px;
 	position: relative;
+	z-index: 10;
 }
 
 .contact__card-icon,
@@ -93,4 +94,8 @@
 
 .contact__form {
 	z-index: 10;
+}
+
+.contact__card a {
+	color: var(--color);
 }
