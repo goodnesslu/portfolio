@@ -14,39 +14,39 @@ const Pricing = () => {
 
 			<div className="pricing__container container grid">
 				<div className="pricing__item card card-one">
-					<span className="pricing__subtitle text-cs">Hourly Basis</span>
+					<span className="pricing__subtitle text-cs">Hourly Rate</span>
 					<h3 className="pricing__price">
-						39 <span>$</span> <em>Hour</em>
+						20 <span>$</span> <em>Hour</em>
 					</h3>
 
 					<p className="pricing__description">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta odit
-						velit praesentium ipsa quam quas qui explicabo illo consectetur
-						repellendus.
+						Hourly rate is for projects that can be billed by the hour. I
+						typically don't do branding and development projects with this
+						pricing system. This includes any time spent planning.
 					</p>
 
 					<ul className="pricing__list">
 						<li className="list__item">
 							<FaCheck className="list__icon" />
-							<span>Brand Design</span>
+							<span>Content Production</span>
 						</li>
 
 						<li className="list__item">
 							<FaCheck className="list__icon" />
-							<span>Web Development</span>
+							<span>Advertising</span>
 						</li>
 
 						<li className="list__item">
-							<del>Advertising</del>
+							<del>Web & App Development</del>
 						</li>
 
 						<li className="list__item">
-							<del>Photography</del>
+							<del>Branding & Design</del>
 						</li>
 					</ul>
 
 					<a href="#" className="btn pricing__btn text-cs">
-						Start Project
+						Free Strategy Call
 						<FaArrowRight className="pricing__btn-icon" />
 					</a>
 
@@ -58,24 +58,24 @@ const Pricing = () => {
 					<div className="pricing__item card card-one">
 						<span className="pricing__subtitle text-cs">Freelanceing</span>
 						<h3 className="pricing__price">
-							259 <span>$</span> <em>Week</em>
+							200 <span>$</span> <em>Project</em>
 						</h3>
 
 						<p className="pricing__description">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
-							odit velit praesentium ipsa quam quas qui explicabo illo
-							consectetur repellendus.
+							This pricing depends on the size and scope of your project. Please
+							request for quotation during discovery call. Includes development,
+							Design and large content projects.
 						</p>
 
 						<ul className="pricing__list">
 							<li className="list__item">
 								<FaCheck className="list__icon" />
-								<span>Brand Design</span>
+								<span>Branding & Design</span>
 							</li>
 
 							<li className="list__item">
 								<FaCheck className="list__icon" />
-								<span>Web Development</span>
+								<span>Web & App Development</span>
 							</li>
 
 							<li className="list__item">
@@ -84,12 +84,13 @@ const Pricing = () => {
 							</li>
 
 							<li className="list__item">
-								<del>Photography</del>
+								<FaCheck className="list__icon" />
+								<span>Content Production</span>
 							</li>
 						</ul>
 
 						<a href="#" className="btn pricing__btn text-cs">
-							Start Project
+							Free Strategy Call
 							<FaArrowRight className="pricing__btn-icon" />
 						</a>
 
@@ -112,12 +113,12 @@ const Pricing = () => {
 					<ul className="pricing__list">
 						<li className="list__item">
 							<FaCheck className="list__icon" />
-							<span>Brand Design</span>
+							<span>Branding & Design</span>
 						</li>
 
 						<li className="list__item">
 							<FaCheck className="list__icon" />
-							<span>Web Development</span>
+							<span>Web & App Development</span>
 						</li>
 
 						<li className="list__item">
@@ -127,12 +128,12 @@ const Pricing = () => {
 
 						<li className="list__item">
 							<FaCheck className="list__icon" />
-							<span>Photography</span>
+							<span>Content Production</span>
 						</li>
 					</ul>
 
 					<a href="#" className="btn pricing__btn text-cs">
-						Start Project
+						Free Strategy Call
 						<FaArrowRight className="pricing__btn-icon" />
 					</a>
 

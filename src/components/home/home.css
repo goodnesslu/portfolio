@@ -100,9 +100,10 @@
 }
 
 .home__banner {
-	background-color: var(--primary-color);
+	/* background-color: var(--primary-color); */
 	padding-bottom: 100%;
 	border-radius: 50%;
+	border-radius: 26px;
 	position: relative;
 	z-index: 1;
 }
@@ -110,8 +111,8 @@
 .home__profile {
 	position: absolute;
 	bottom: 0;
-	height: 800px;
-	border-radius: 500px;
+	height: 700px;
+	/* border-radius: 500px; */
 	object-fit: cover;
 }
 
